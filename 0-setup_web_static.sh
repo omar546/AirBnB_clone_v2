@@ -40,10 +40,9 @@ SERVER_CONFIG="server {
 HOME_PAGE="<!DOCTYPE html>
 <html lang='en-US'>
 	<head>
-		<title>Home - AirBnB Clone</title>
 	</head>
 	<body>
-		<h1>Welcome to AirBnB!</h1>
+		Holberton School
 	<body>
 </html>
 "
